@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @MayankJha2002
+- I am a product designer
+- Learning and unnderstanding programming to improve my technical knowledge
